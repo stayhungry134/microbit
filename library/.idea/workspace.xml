@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba408349-e519-4f4c-a8d7-98ce1c5ebca0" name="Default Changelist" comment="修复手势识别">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds1307.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cDuTeC3YoYVatHcW43wQgPwwqE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba408349-e519-4f4c-a8d7-98ce1c5ebca0" name="Default Changelist" comment="" />
+      <created>1590075493224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590075493224</updated>
+      <workItem from="1590075495465" duration="33000" />
+      <workItem from="1590077400554" duration="2000" />
+      <workItem from="1590077405230" duration="2000" />
+      <workItem from="1590113998333" duration="13700000" />
+      <workItem from="1590143422749" duration="8434000" />
+      <workItem from="1590242179674" duration="204000" />
+      <workItem from="1591091904044" duration="909000" />
+      <workItem from="1591181227023" duration="2214000" />
+      <workItem from="1591599053217" duration="91000" />
+      <workItem from="1591599165661" duration="22982000" />
+      <workItem from="1591844547091" duration="77000" />
+      <workItem from="1591844639654" duration="93000" />
+      <workItem from="1591844747708" duration="103000" />
+      <workItem from="1591845595900" duration="18147000" />
+      <workItem from="1592465157975" duration="3664000" />
+      <workItem from="1592615092756" duration="658000" />
+      <workItem from="1592874140772" duration="371000" />
+      <workItem from="1592967295766" duration="425000" />
+      <workItem from="1594256649956" duration="539000" />
+      <workItem from="1594363070446" duration="6000" />
+      <workItem from="1594365342328" duration="1472000" />
+      <workItem from="1594606055552" duration="530000" />
+      <workItem from="1594727695105" duration="1503000" />
+      <workItem from="1595233792199" duration="4399000" />
+      <workItem from="1595508749867" duration="1515000" />
+      <workItem from="1595513243662" duration="1067000" />
+      <workItem from="1596695282984" duration="369000" />
+      <workItem from="1600132467839" duration="424000" />
+      <workItem from="1600313119121" duration="1624000" />
+      <workItem from="1607688278839" duration="2150000" />
+      <workItem from="1607736064249" duration="1701000" />
+      <workItem from="1607912126997" duration="1276000" />
+      <workItem from="1607997850575" duration="1354000" />
+      <workItem from="1608535169285" duration="2186000" />
+      <workItem from="1608777462104" duration="280000" />
+      <workItem from="1609149071264" duration="342000" />
+      <workItem from="1609309543724" duration="627000" />
+      <workItem from="1609398988429" duration="490000" />
+      <workItem from="1609911081567" duration="689000" />
+      <workItem from="1610509832084" duration="594000" />
+      <workItem from="1610589137367" duration="7122000" />
+      <workItem from="1610603770049" duration="1974000" />
+      <workItem from="1610607016533" duration="234000" />
+      <workItem from="1610607306156" duration="126000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1590136890657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590136890657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1590138004033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590138004033</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加几个">
+      <created>1590140848386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590140848386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加哪吒">
+      <created>1590144749079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590144749079</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加气体传感器">
+      <created>1590148185825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590148185825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加气体传感器">
+      <created>1590149869310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590149869310</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加实时时钟">
+      <created>1590156664666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590156664666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加实时时钟">
+      <created>1591182390453</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591182390453</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加PM2.5模块">
+      <created>1591601487250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591601487250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加PM2.5模块">
+      <created>1591608941393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591608941393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改CO2值反相问题">
+      <created>1591683772688</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591683772688</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改CO2值反相问题">
+      <created>1591683820715</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591683820715</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修复pm25">
+      <created>1591685122722</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591685122722</updated>
+    </task>
+    <task id="LOCAL-00014" summary="添加mq2   mq3">
+      <created>1591703899216</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591703899216</updated>
+    </task>
+    <task id="LOCAL-00015" summary="添加MP3，修改了手势的注释">
+      <created>1591775320697</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591775320697</updated>
+    </task>
+    <task id="LOCAL-00016" summary="添加WI-FI模块（未完成）">
+      <created>1591883879017</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591883879018</updated>
+    </task>
+    <task id="LOCAL-00017" summary="添加WI-FI模块（未测试）">
+      <created>1591970399859</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591970399859</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dust debug">
+      <created>1591970475179</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591970475179</updated>
+    </task>
+    <task id="LOCAL-00019" summary="debug dust">
+      <created>1592466848485</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592466848485</updated>
+    </task>
+    <task id="LOCAL-00020" summary="debug dust">
+      <created>1592473036895</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592473036895</updated>
+    </task>
+    <task id="LOCAL-00021" summary="debug dust">
+      <created>1594256802842</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594256802842</updated>
+    </task>
+    <task id="LOCAL-00022" summary="debug dust">
+      <created>1595238501115</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1595238501115</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix">
+      <created>1595240569282</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1595240569282</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix">
+      <created>1595247687577</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1595247687577</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix  mp3">
+      <created>1595512573155</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1595512573155</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix  DHT11">
+      <created>1600314644390</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1600314644390</updated>
+    </task>
+    <task id="LOCAL-00027" summary="delete 18b20.py">
+      <created>1607688716690</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1607688716690</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix led">
+      <created>1607695282355</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607695282355</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix led">
+      <created>1607695349787</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607695349787</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix led">
+      <created>1607695367708</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607695367708</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix led">
+      <created>1607695512342</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607695512342</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix bug">
+      <created>1607695904978</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1607695904978</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix describe">
+      <created>1607736207177</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607736207177</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix describe">
+      <created>1607998785600</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607998785600</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix led fans J3 J4">
+      <created>1608000235114</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1608000235114</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix light.py">
+      <created>1608537489487</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1608537489487</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix light.py">
+      <created>1609399023377</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1609399023377</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix asr">
+      <created>1609399352066</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1609399352066</updated>
+    </task>
+    <task id="LOCAL-00039" summary="新增颜色识别返回颜色名函数">
+      <created>1610510406820</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1610510406820</updated>
+    </task>
+    <task id="LOCAL-00040" summary="新增颜色识别返回颜色名函数">
+      <created>1610590564093</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1610590564093</updated>
+    </task>
+    <task id="LOCAL-00041" summary="新增颜色识别返回颜色名函数">
+      <created>1610591917047</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610591917047</updated>
+    </task>
+    <task id="LOCAL-00042" summary="修复光线识别范围">
+      <created>1610592340879</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1610592340879</updated>
+    </task>
+    <task id="LOCAL-00043" summary="修复光线识别范围">
+      <created>1610592512062</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1610592512062</updated>
+    </task>
+    <task id="LOCAL-00044" summary="修复手势识别">
+      <created>1610606475467</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1610606475468</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加气体传感器" />
+    <MESSAGE value="添加实时时钟" />
+    <MESSAGE value="添加PM2.5模块" />
+    <MESSAGE value="修改CO2值反相问题" />
+    <MESSAGE value="修复pm25" />
+    <MESSAGE value="添加mq2   mq3" />
+    <MESSAGE value="添加MP3，修改了手势的注释" />
+    <MESSAGE value="添加WI-FI模块（未完成）" />
+    <MESSAGE value="添加WI-FI模块（未测试）" />
+    <MESSAGE value="dust debug" />
+    <MESSAGE value="debug dust" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fix  mp3" />
+    <MESSAGE value="fix  DHT11" />
+    <MESSAGE value="delete 18b20.py" />
+    <MESSAGE value="fix fans" />
+    <MESSAGE value="fix led" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="fix describe" />
+    <MESSAGE value="fix led fans J3 J4" />
+    <MESSAGE value="fix light.py" />
+    <MESSAGE value="fix asr" />
+    <MESSAGE value="新增颜色识别返回颜色名函数" />
+    <MESSAGE value="修复光线识别范围" />
+    <MESSAGE value="修复手势识别" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复手势识别" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2052" y="619" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610607239789">
+      <screen x="2048" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2052" y="619" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.0.1080.1920/0.0.2048.1280@2048.0.1080.1920" timestamp="1610607239789" />
+    <state x="2328" y="570" key="Vcs.Push.Dialog.v2" timestamp="1610606492110">
+      <screen x="2048" y="0" width="1080" height="1920" />
+    </state>
+    <state x="624" y="380" key="Vcs.Push.Dialog.v2/2048.0.1080.1920/0.0.2048.1280@0.0.2048.1280" timestamp="1610510410219" />
+    <state x="2328" y="570" key="Vcs.Push.Dialog.v2/2048.0.1080.1920/0.0.2048.1280@2048.0.1080.1920" timestamp="1610606492110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
